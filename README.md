@@ -6,4 +6,4 @@ Simulation can be run with [OpenRadioss](https://github.com/OpenRadioss/OpenRadi
 Simulation time ~10-20 min.
 
 ![image](snip.jpeg)
-![](thickness.mp4)
+![thickness](thickness.gif)
